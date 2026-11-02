@@ -1,5 +1,5 @@
 # 👾 LENENN RODRIGUES
-### `Software Developer | Full Stack Developer | AI Enthusiast`
+### `Network Engneer| Full Stack Developer | AI Enthusiast`
 
 <div align="center">
 
