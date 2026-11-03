@@ -17,24 +17,27 @@ const lenenn = {
     role: "Software Developer",
     interests: [
         "Software Development",
+        "Cybersecurity",
         "Artificial Intelligence",
         "Prompt Engineering",
         "Backend & Frontend Development"
     ],
-    mindset: "Always learning, always building.",
-    objective: "Turning ideas into technology."
+    mindset: "Always learning, always building, always studying.",
+    objective: "Get at Fabio Akita's level. Build things that can help the society."
 };
 
 while (alive) {
     learn();
     code();
     innovate();
+    debug();
+    deployAfter();
 }
 ```
 
-💻 Desenvolvedor apaixonado por tecnologia, programação e inovação. Tenho interesse em construir soluções eficientes, explorar novas tecnologias e desenvolver sistemas que conectem criatividade e lógica.
+💻 Desenvolvedor (novo ainda) apaixonado por tecnologia, programação, hardware e inovação. Tenho interesse em construir soluções eficientes, explorar novas tecnologias e desenvolver sistemas que conectem criatividade e lógica.
 
-🚀 Sempre buscando evoluir minhas habilidades em desenvolvimento de software, inteligência artificial e engenharia de prompt.
+🚀 Sempre buscando evoluir minhas habilidades em desenvolvimento de software, segurança e engenharia de prompt.
 
 ---
 
